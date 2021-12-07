@@ -1,2 +1,2 @@
 # Zadanie 1
-## [https://dcieszynski.github.io/Zad1/](Strona na Github Pages])
+## [Strona na GithubPages](https://dcieszynski.github.io/Zad1/)
