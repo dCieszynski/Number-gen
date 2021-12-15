@@ -1,2 +1,2 @@
 # Number generator
-## [Strona na GithubPages](https://dcieszynski.github.io/Zad1/)
+## [Strona na GithubPages](https://dcieszynski.github.io/Number-gen/)
